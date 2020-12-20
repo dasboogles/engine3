@@ -1,5 +1,8 @@
 # SWGEmu Engine3 #
 
+## Versioning ##
+This version of engine3 is the one that ProjectCarbonite, based on latest unstable core3, utilizes.
+
 ## What is SWGEmu? ##
 
 [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies) was a massively multi-player online role playing game introduced by Sony Online Entertainment in the year 2003 and shut down in 2011.
